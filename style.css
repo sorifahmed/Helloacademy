@@ -1,0 +1,172 @@
+*{margin:0px; padding:0px; }
+
+/*------  frist------   */
+#frist{
+	
+}
+.container{
+	max-width:1170px;
+	margin:0 auto;
+	padding: 50px 0px;
+	overflow:hidden;
+}
+.full-width{
+    margin: 20px;	
+}
+.logo{
+	width: 30%;
+    float: left;	
+}
+.logo img{
+    width: 206px;	
+}
+.menu{
+	float:left;
+    width: 70%;	
+    margin-top: 50px;	
+}
+.menu ul{
+	 
+}
+.menu ul li{
+	list-style:none;
+	float:left;
+	padding-left:10px;
+}
+.menu ul li a{
+	text-decoration:none;
+	font-size: 19px;
+    padding: 7px 23px;
+    color: orange;
+    background: #401d1d;
+}
+.menu ul li a:hover{
+	color:#fff;
+	background:#444;
+}/*------  frist-section end------   */
+
+
+
+/*------  second-section ------   */
+
+#second-section{
+	background:url(img/download.jpg) no-repeat;
+	background-size:cover;
+	background-position:center center;
+	background-attachment:fixed;
+}
+.content{
+	text-align: center;	
+	padding:50px;
+	color:blue;
+}
+.content h2{
+	font-size: 30px;	
+
+}
+.content p{
+	font-size: 18px;
+}/*------  second-section end------   */
+
+
+/*------  third-section ------   */
+
+#third-section{
+	padding-bottom:50px;
+}
+.section-top{
+	text-align:center;
+	padding: 21px 0px;
+	margin-bottom:10px;
+}
+.section-top h2{
+	font-size:50px;
+	color:#ddd;
+	text-shadow: 1px 3px 1px #000;	
+}
+.section-top p{
+    color: #000;
+    font-size: 18px;
+    margin-top: 5px;	
+}
+.third-content{
+	
+}
+.content-content{
+    width: 33%;
+    float: left;	
+	text-align:center;
+}
+.content-content img{
+    width: 100px;	
+}
+.content-content h2{
+	color:gray;
+	 
+}
+.content-content p{
+    padding: 12px;	 
+}/*------  thrid-section end------   */
+
+/*------  fourth-section ------   */
+#fourth-section{
+	background:url(img/04.jpg) no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center  ;
+}
+.four-content{
+	
+}
+.fourth-top{
+	text-align:center;
+	color:#fff;
+}
+.fourth-top h2{
+	font-size: 33px;
+    text-transform: uppercase;	
+}
+.fourth-top p{
+    font-size: 17px;
+     
+}
+.fourth{
+	width:25%;
+	float:left;
+	text-align:center;
+	color:#fff;
+}
+.fourth h2{
+	
+}
+.fourth img{
+	width: 110px;
+	border-radius: 50%;
+	height: 110px;
+}
+.fourth p{
+	
+}/*------  four-section end------   */
+
+/*------  footer-section ------   */
+#footer{
+	background:#000;
+	color:#fff;
+	padding: 20px;
+	text-align:center;
+}
+#footer p{
+	
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
